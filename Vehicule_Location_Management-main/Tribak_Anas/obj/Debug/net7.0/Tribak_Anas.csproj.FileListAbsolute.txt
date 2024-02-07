@@ -1,0 +1,28 @@
+C:\Users\lenovo\Desktop\ESISA Workspace\3eme Année\S5\C#\Tribak_Anas\Tribak_Anas\obj\Debug\net7.0\Tribak_Anas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\ESISA Workspace\3eme Année\S5\C#\Tribak_Anas\Tribak_Anas\obj\Debug\net7.0\Tribak_Anas.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\ESISA Workspace\3eme Année\S5\C#\Tribak_Anas\Tribak_Anas\obj\Debug\net7.0\Tribak_Anas.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\ESISA Workspace\3eme Année\S5\C#\Tribak_Anas\Tribak_Anas\obj\Debug\net7.0\Tribak_Anas.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\ESISA Workspace\3eme Année\S5\C#\Tribak_Anas\Tribak_Anas\bin\Debug\net7.0\Tribak_Anas.exe
+C:\Users\lenovo\Desktop\ESISA Workspace\3eme Année\S5\C#\Tribak_Anas\Tribak_Anas\bin\Debug\net7.0\Tribak_Anas.deps.json
+C:\Users\lenovo\Desktop\ESISA Workspace\3eme Année\S5\C#\Tribak_Anas\Tribak_Anas\bin\Debug\net7.0\Tribak_Anas.runtimeconfig.json
+C:\Users\lenovo\Desktop\ESISA Workspace\3eme Année\S5\C#\Tribak_Anas\Tribak_Anas\bin\Debug\net7.0\Tribak_Anas.dll
+C:\Users\lenovo\Desktop\ESISA Workspace\3eme Année\S5\C#\Tribak_Anas\Tribak_Anas\bin\Debug\net7.0\Tribak_Anas.pdb
+C:\Users\lenovo\Desktop\ESISA Workspace\3eme Année\S5\C#\Tribak_Anas\Tribak_Anas\obj\Debug\net7.0\Tribak_Anas.dll
+C:\Users\lenovo\Desktop\ESISA Workspace\3eme Année\S5\C#\Tribak_Anas\Tribak_Anas\obj\Debug\net7.0\refint\Tribak_Anas.dll
+C:\Users\lenovo\Desktop\ESISA Workspace\3eme Année\S5\C#\Tribak_Anas\Tribak_Anas\obj\Debug\net7.0\Tribak_Anas.pdb
+C:\Users\lenovo\Desktop\ESISA Workspace\3eme Année\S5\C#\Tribak_Anas\Tribak_Anas\obj\Debug\net7.0\Tribak_Anas.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\ESISA Workspace\3eme Année\S5\C#\Tribak_Anas\Tribak_Anas\obj\Debug\net7.0\ref\Tribak_Anas.dll
+C:\Users\lenovo\Desktop\Tribak_Anas\Tribak_Anas\bin\Debug\net7.0\Tribak_Anas.exe
+C:\Users\lenovo\Desktop\Tribak_Anas\Tribak_Anas\bin\Debug\net7.0\Tribak_Anas.deps.json
+C:\Users\lenovo\Desktop\Tribak_Anas\Tribak_Anas\bin\Debug\net7.0\Tribak_Anas.runtimeconfig.json
+C:\Users\lenovo\Desktop\Tribak_Anas\Tribak_Anas\bin\Debug\net7.0\Tribak_Anas.dll
+C:\Users\lenovo\Desktop\Tribak_Anas\Tribak_Anas\bin\Debug\net7.0\Tribak_Anas.pdb
+C:\Users\lenovo\Desktop\Tribak_Anas\Tribak_Anas\obj\Debug\net7.0\Tribak_Anas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Tribak_Anas\Tribak_Anas\obj\Debug\net7.0\Tribak_Anas.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Tribak_Anas\Tribak_Anas\obj\Debug\net7.0\Tribak_Anas.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Tribak_Anas\Tribak_Anas\obj\Debug\net7.0\Tribak_Anas.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Tribak_Anas\Tribak_Anas\obj\Debug\net7.0\Tribak_Anas.dll
+C:\Users\lenovo\Desktop\Tribak_Anas\Tribak_Anas\obj\Debug\net7.0\refint\Tribak_Anas.dll
+C:\Users\lenovo\Desktop\Tribak_Anas\Tribak_Anas\obj\Debug\net7.0\Tribak_Anas.pdb
+C:\Users\lenovo\Desktop\Tribak_Anas\Tribak_Anas\obj\Debug\net7.0\Tribak_Anas.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Tribak_Anas\Tribak_Anas\obj\Debug\net7.0\ref\Tribak_Anas.dll
